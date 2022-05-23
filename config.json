@@ -1,0 +1,9 @@
+{
+	"ip":"Magic_Network_Smp.aternos.me",
+	"port": 30618,
+	"name": "kashyapbot454",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (ayush7477)",
+	"login-cmd":"/login (ayush7477)"
+}
